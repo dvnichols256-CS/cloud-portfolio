@@ -165,12 +165,6 @@ response and threat hunting skills developed during my NC State bootcamp.
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dvnichols256-CS&show_icons=true&theme=dark)
-
----
-
 ## 🤝 Let's Connect
 
 I'm actively seeking cloud engineering opportunities in North Carolina and remotely.
