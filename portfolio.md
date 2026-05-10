@@ -1,5 +1,4 @@
-# ☁️ Cloud Computing Portfolio — [Your Name]
-
+# Cyber Security Portfolio — Dalvin Nichols
 > NC State Certified Cybersecurity Professional transitioning into Cloud Engineering.
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)](https://aws.amazon.com)
