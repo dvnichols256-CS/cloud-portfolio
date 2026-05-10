@@ -1,5 +1,5 @@
 # Cyber Security Portfolio — Dalvin Nichols
-> NC State Certified Cybersecurity Professional transitioning into Cloud Engineering.
+>  Digital Marketing Professional transitioning into Cyber Security/Cloud Technologies.
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-purple?logo=terraform)](https://terraform.io)
@@ -167,7 +167,7 @@ response and threat hunting skills developed during my NC State bootcamp.
 
 ## 🤝 Let's Connect
 
-I'm actively seeking cloud engineering opportunities in North Carolina and remotely.
+I'm actively seeking cyber security opportunities in North Carolina and remotely.
 If you're hiring or want to collaborate, let's talk!
 
 - 📧 Contact: [dvnichols256@gmail.com](mailto:dvnichols256@gmail.com)
